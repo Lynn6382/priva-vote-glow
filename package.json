@@ -1,5 +1,5 @@
 {
-  "name": "encrypted-survey",
+  "name": "private-vote-glow",
   "description": "Privacy-preserving survey and voting system using FHEVM fully homomorphic encryption",
   "version": "1.0.0",
   "engines": {
@@ -7,10 +7,10 @@
     "npm": ">=7.0.0"
   },
   "license": "BSD-3-Clause-Clear",
-  "homepage": "https://github.com/zama-ai/fhevm-hardhat-template/README.md",
+  "homepage": "https://github.com/Lynn6382/priva-vote-glow#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zama-ai/fhevm-hardhat-template.git"
+    "url": "git+https://github.com/Lynn6382/priva-vote-glow.git"
   },
   "keywords": [
     "fhevm",
